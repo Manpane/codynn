@@ -1,1 +1,1 @@
-public static viod mina() this is another .java
+pub mina() this is another .java
